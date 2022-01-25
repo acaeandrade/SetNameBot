@@ -1,2 +1,2 @@
 # SetNameBot
-A bot for chance automatically a user's name on twitter
+A bot for change automatically a user's name on twitter
