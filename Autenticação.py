@@ -1,7 +1,7 @@
 from charset_normalizer import api
 import tweepy
 
-def Autenticacao():
+def Autenticação():
     consumer_key = ""
     consumer_secret = ""
     access_token = ""
